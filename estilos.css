@@ -1,0 +1,55 @@
+h1 {
+    font-family: "Grandstander", cursive;
+    color: rgb(228, 10, 10);
+    font-size: 50px;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 21px;
+}
+
+.imagen-derecha {
+    float: right;
+    margin-left: 10px;
+    margin-right: 50px;
+    width: 500px;
+    height: 300px;
+}
+
+.imagen-izquierda{
+    float: left;
+    margin-right: 10px;
+    margin-left: 50px;
+    width: 350px;
+    height: 250px;
+    margin-top: 20px;
+
+}
+
+.imagen-derech {
+    float: right;
+    margin-left: 10px;
+    margin-right: 50px;
+    width: 350px;
+    height: 250px;
+}
+
+.imagen-izquierd{
+    float: left;
+    margin-right: 10px;
+    margin-left: 50px;
+    width: 350px;
+    height: 250px;
+    margin-top: 20px;
+
+}
+
+.imagen-derec {
+    float: right;
+    margin-left: 10px;
+    margin-right: 50px;
+    width: 350px;
+    height: 250px;
+}
+
